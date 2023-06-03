@@ -1,0 +1,17 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+/.idea
+/Lab1/client/out
+/Lab1/client/.idea
+/Lab1/server/out
+/Lab1/server/.idea
+/Lab2/ClientChat/out
+/Lab2/ClientChat/.idea
+/Lab2/ServerChat/out
+/Lab2/ServerChat/.idea
